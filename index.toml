@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-unbound.pw.toml"
-hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
-metafile = true
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
@@ -2035,3 +2030,8 @@ hash = "ba017c74d712f7f81450ce6dffe4b38ff0f8af729c833eadfa0f22ac5db6355a"
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1.zip.txt"
 hash = "969ed55ae9c5ebc7b1a8123dd25ca1829404ec04ee733008510935f7806c3d80"
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
+metafile = true
