@@ -1742,6 +1742,11 @@ hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "e3b879b027674a3c9b002eb24f2ea47397bf2087124387f65241b4e0ca4e73d5"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
