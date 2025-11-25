@@ -1372,11 +1372,6 @@ hash = "913bbc46f7ebbae12ee05efee5810b4c56a027336acc929951ee3bae1f084275"
 metafile = true
 
 [[files]]
-file = "mods/chunkpregenerator.pw.toml"
-hash = "b00ef25575c34bcb493300d62abcbd5ee53859186c729b9fd2d0c5588e2dd849"
-metafile = true
-
-[[files]]
 file = "mods/citadel.pw.toml"
 hash = "0c8838dba7d2090968ca9ec633260d42ca16f1df186a780bd5965994541d9f74"
 metafile = true
@@ -1764,11 +1759,6 @@ metafile = true
 [[files]]
 file = "mods/potions-backport.pw.toml"
 hash = "e7be2a917413c37697f4ffa89b6a5694e6ff803a142fa43883d37eedb3c33718"
-metafile = true
-
-[[files]]
-file = "mods/pvp-flagging.pw.toml"
-hash = "cb96ae9966fa2404238459e3f3a6694213633abdba8540d0adf15ba0bf296e4a"
 metafile = true
 
 [[files]]
