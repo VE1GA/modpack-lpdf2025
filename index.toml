@@ -1627,6 +1627,11 @@ hash = "68b208e1f95ee09e9ca154157bf291b5753b651eb28c7163d15dcad150524752"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "e8b4876d403b4f4daab64bad9704a5b271a33031d1ff8d19d23ebd1e3b8dd39a"
+metafile = true
+
+[[files]]
 file = "mods/luckys-armory.pw.toml"
 hash = "888589ed253fcf09fc539f64ac7710d049e13ff976f9d76213171e8e018ae476"
 metafile = true
