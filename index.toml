@@ -954,7 +954,7 @@ hash = "3082a1c242b088a198d9cbee7293450c98e745b771cc973ea5916f650cf1b9d7"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "657f2c62d71f3728dd05145811d153e416be577fd9acb34cb06447681ac9491c"
+hash = "6dbdda8643afd51409468974fb55747f8761349f073ff6c377d387b59a8c81f2"
 
 [[files]]
 file = "config/quickrightclick.json5"
@@ -1512,6 +1512,16 @@ hash = "f29e468a2aa1801bc8d9fdb0608b148d3e6eca97b25ef146a3e5d26bdff03f89"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "33233b588be9b7445e87c4b4ff472ffbcb9e36fe0ed2002149140b309ac5849f"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "73ddf3a0c3c88b91fcf94d0e188ced440f22d563d9aa566af206b4cd464e890a"
+metafile = true
+
+[[files]]
 file = "mods/everlasting-skins.pw.toml"
 hash = "92aad830d351518722195722fcf4f917f5a3fe532dffd26f46dd72fea3881438"
 metafile = true
@@ -1544,6 +1554,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/forge-cit.pw.toml"
+hash = "f0f999293f442227eab70ab867bf14f1ed5c7f2ffda3d2e984a1e8e4e07daa24"
 metafile = true
 
 [[files]]
@@ -1991,8 +2006,28 @@ file = "resourcepacks/Custom Music Discs RP.zip"
 hash = "99712df5c44cf5a9df9a7d663230831691b52b7426ed3a53a04724750cd1cb0a"
 
 [[files]]
-file = "resourcepacks/Quark Programmer Art.zip"
-hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
+file = "resourcepacks/FA+Details-v2.1.zip"
+hash = "9945f66c5d9e4ec8932b795c75a200ca254e508fc0287fdc7027dc1ce0b6d8fa"
+
+[[files]]
+file = "resourcepacks/FA+Emissive-v1.4.1.zip"
+hash = "2ed62f6aa865e31426512652414d366d7d0ce207eafd7a2cebaeca627f817ff0"
+
+[[files]]
+file = "resourcepacks/FA+Quivers-v2.1.zip"
+hash = "adb3f22abbeec9247d2c841c52dd92541a1e80ccf3ce3a5c8107f3149c26da54"
+
+[[files]]
+file = "resourcepacks/FA+Spiders-v2.1.zip"
+hash = "23411cc0584fc74432bd024fa559b4117d40c1b4055e2f68f1bb498994eaafe6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.10.2.zip"
+hash = "72599c99251b2dd8543795c0d566da5c0e39f79fd5d002e6cba0e7581e77acfa"
+
+[[files]]
+file = "resourcepacks/Sparkles_1.21.x_v1.1.3.zip"
+hash = "7c647f1d4f32c6c7f9047f2361c713bb0b7c12d53b24c62b4e5f838892e61a95"
 
 [[files]]
 file = "resourcepacks/eating-animation-more-mod-compatibility.pw.toml"
