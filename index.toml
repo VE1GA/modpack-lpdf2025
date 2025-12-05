@@ -1522,9 +1522,8 @@ hash = "73ddf3a0c3c88b91fcf94d0e188ced440f22d563d9aa566af206b4cd464e890a"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "6843022335e0f27b000ff90bf6641c5299594f5ca06331abf298b5122c6b9bcc"
-metafile = true
+file = "mods/entityculling-forge-1.9.3-mc1.20.1.jar"
+hash = "c0160d378f5f00da72e7235a62caa615a5274a2346541101311b24442366ab71"
 
 [[files]]
 file = "mods/everlasting-skins.pw.toml"
