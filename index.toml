@@ -1522,6 +1522,11 @@ hash = "73ddf3a0c3c88b91fcf94d0e188ced440f22d563d9aa566af206b4cd464e890a"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "6843022335e0f27b000ff90bf6641c5299594f5ca06331abf298b5122c6b9bcc"
+metafile = true
+
+[[files]]
 file = "mods/everlasting-skins.pw.toml"
 hash = "92aad830d351518722195722fcf4f917f5a3fe532dffd26f46dd72fea3881438"
 metafile = true
@@ -2006,20 +2011,12 @@ file = "resourcepacks/Custom Music Discs RP.zip"
 hash = "99712df5c44cf5a9df9a7d663230831691b52b7426ed3a53a04724750cd1cb0a"
 
 [[files]]
-file = "resourcepacks/FA+Details-v2.1.zip"
-hash = "9945f66c5d9e4ec8932b795c75a200ca254e508fc0287fdc7027dc1ce0b6d8fa"
-
-[[files]]
 file = "resourcepacks/FA+Emissive-v1.4.1.zip"
 hash = "2ed62f6aa865e31426512652414d366d7d0ce207eafd7a2cebaeca627f817ff0"
 
 [[files]]
 file = "resourcepacks/FA+Quivers-v2.1.zip"
 hash = "adb3f22abbeec9247d2c841c52dd92541a1e80ccf3ce3a5c8107f3149c26da54"
-
-[[files]]
-file = "resourcepacks/FA+Spiders-v2.1.zip"
-hash = "23411cc0584fc74432bd024fa559b4117d40c1b4055e2f68f1bb498994eaafe6"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.10.2.zip"
